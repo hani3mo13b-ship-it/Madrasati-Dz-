@@ -1,20 +1,8 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="https://cdn.discordapp.com/attachments/1426573782407184455/1442223160585097327/telecharger_2.jpg?ex=6924a67c&is=692354fc&hm=3879aaae13d9aed60ec724a116194594655392c0da2a40f0ef10807b866ba5ac&" />
 </div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/14-_CP73u5qcv01-UBv07F-aag9YEvjZh
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+This site was devloped by hani
+for
+helping algerians students
+نتمى يغجبكم 
+# W
