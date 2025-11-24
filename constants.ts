@@ -1,4 +1,8 @@
+
 import { EducationLevel, Subject, StudyResource } from './types';
+
+// ✅ هذا هو المكان الصحيح للكود الذي أعطاك إياه جوجل (G-016VM3YQ2X)
+export const GA_MEASUREMENT_ID = 'G-016VM3YQ2X';
 
 export const YEARS = {
   [EducationLevel.PRIMARY]: ['السنة الأولى', 'السنة الثانية', 'السنة الثالثة', 'السنة الرابعة', 'السنة الخامسة'],
